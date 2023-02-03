@@ -1,5 +1,5 @@
 # hoeness
 
-### Für Eure Scheiss Stimmung seid Ihr doch verantwortlich, nicht wir!
+## Für Eure Scheiss Stimmung seid Ihr doch verantwortlich, nicht wir!
 
-## - Uli Hoenneß, JHV 2008
+### - Uli Hoenneß, JHV 2008
