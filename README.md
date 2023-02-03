@@ -1,8 +1,6 @@
 # hoeness
 
-## Für Eure Scheiss Stimmung seid Ihr doch verantwortlich, nicht wir!
-
-### - Uli Hoenneß, JHV 2008
+## Für Eure Scheiss Stimmung seid Ihr doch verantwortlich, nicht wir! - Uli Hoenneß, JHV 2008
 
 # Projekt Logbuch: Stimmungsindex
 
