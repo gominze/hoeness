@@ -9,3 +9,15 @@
 > 03.02.2023
 
 - Genehmigung unseres Projektes aufgrund der eingereichten Projektbeschreibung (ss)
+
+> 07.02.2023
+
+- Meeting: Grundlagenkozeption
+- MDP ausgearbeitet
+- Erste Aufgabenzuteilungen
+- Erste Schritte der Anforderungsanalyse
+- Ausblick bis Freitag
+- Aubslick auf die nächste Woche
+- Stimmung: neutral
+- Schwierigkeiten: Verschiedene Vorstellungen innerhalb des Teams auf einen Nenner zu bringen. (ss)
+-
