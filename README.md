@@ -24,9 +24,9 @@
 - Groben Codeaufbau vom Stimmungsindex (jc)
 
 > 08.02.2023
-- Dokumentation / Präsentationsgespräch (ds)
+- Dokumentation / Präsentationsgespräch
 - Docker Setup initialisiert
 - Github pflege und struktur tests
 - erste Design Code snippets angeguckt/bewertet/besprochen
-- Ziel: Für die Dokumentation eine Plattform/Technologie finden 
+- Ziel: Für die Dokumentation eine Plattform/Technologie finden (ds)
 
