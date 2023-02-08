@@ -21,3 +21,5 @@
 - Stimmung: neutral
 - Schwierigkeiten: Verschiedene Vorstellungen innerhalb des Teams auf einen Nenner zu bringen. (ss)
 -
+
+> 08.02.2023
