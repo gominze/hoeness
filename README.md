@@ -23,5 +23,6 @@
 - Erstellen einer CSS, JS und HTML Datei 
 - Groben Codeaufbau vom Stimmungsindex (jc)
 
--08.02.2023 first entry (ds)
-ich ändere noch etwas (dd)
+> 08.02.2023
+ich ändere noch etwas (ds)
+
