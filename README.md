@@ -20,11 +20,8 @@
 - Aubslick auf die nächste Woche
 - Stimmung: neutral
 - Schwierigkeiten: Verschiedene Vorstellungen innerhalb des Teams auf einen Nenner zu bringen. (ss)
-
-
-Erstellen einer CSS, JS und HTML DATEI. Grober Aufbau / coden vom Stimmungsindex. 
-https://codepen.io/ilushh/pen/ZEjZBxe
-(JC)
+- Erstellen einer CSS, JS und HTML Datei 
+- Groben Codeaufbau vom Stimmungsindex (jc)
 
 -08.02.2023 first entry (ds)
 ich ändere noch etwas (dd)
