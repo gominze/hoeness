@@ -4,6 +4,11 @@
 >
 > - Uli Hoenneß, JHV 2008
 
+
+# Dokumentation
+
+Dokumentation auf Github Pages [LINK](https://gominze.github.io/hoeness/)
+
 # Projekt Logbuch: Stimmungsindex
 
 Status: 03.02.2023
