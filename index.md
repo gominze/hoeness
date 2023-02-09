@@ -14,26 +14,56 @@ description: Dokumentation des Hoeness Stimmungsbarometers
 Hoeness ist ein Projekt im Rahmen des Techstarter DevOps & Cloud Computing Kurses 2022/07.
 
 
-# Punkt 1
+# Dokumentation
+
+## Einleitung
+
+### Was ist Hoeness?
 
 test
 
-## Subpunkt 1.1
+### Warum gibt es Hoeness?
 
-test
+### Zielsetzung
 
-## Subpunkt 1.2
+#### Funktionalität
 
-test
+#### Technische Umsetzung
 
-## Punkt 2
 
-testtest
+## Wie benutze ich Hoeness?
 
-## Subpunkt 2.1
+### Funktionalität des Frontend
 
-test
 
-## Subpunkt 2.2
+## Wie funktioniert Hoeness?
 
-test
+### Tech-Stack
+
+#### Frontend
+
+#### Backend
+
+#### Database
+
+#### Nginx
+
+
+### Deployment
+
+#### Docker Compose
+
+#### Hosting und Konfiguration
+
+
+## Evaluierung
+
+### Projektfortschritt
+
+### Roadblocks
+
+### Zusammenarbeit
+
+
+## Ausblick
+
