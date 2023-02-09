@@ -1,31 +1,11 @@
-# hoeness
+# New Liquid Docs
 
-> Für Eure Scheiss Stimmung seid Ihr doch verantwortlich, nicht wir!
-> - Uli Hoenneß, JHV 2008
+To run, follow these steps:
 
-# Projekt Logbuch: Stimmungsindex
-
-Status: 03.02.2023
-
-- Genehmigung unseres Projektes aufgrund der eingereichten Projektbeschreibung (ss)
-
-> 07.02.2023
-
-- Meeting: Grundlagenkozeption
-- MDP ausgearbeitet
-- Erste Aufgabenzuteilungen
-- Erste Schritte der Anforderungsanalyse
-- Ausblick bis Freitag
-- Aubslick auf die nächste Woche
-- Stimmung: neutral
-- Schwierigkeiten: Verschiedene Vorstellungen innerhalb des Teams auf einen Nenner zu bringen. (ss)
-- Erstellen einer CSS, JS und HTML Datei 
-- Groben Codeaufbau vom Stimmungsindex (jc)
-
-> 08.02.2023
-- Dokumentation / Präsentationsgespräch
-- Docker Setup initialisiert
-- Github pflege und struktur tests
-- erste Design Code snippets angeguckt/bewertet/besprochen
-- Ziel: Für die Dokumentation eine Plattform/Technologie finden (ds)
-
+1. [Download and install Ruby](https://www.ruby-lang.org/en/downloads)
+2. Download ZIP or clone in GitHub
+3. Navigate to `liquid-gh-pages` folder or checkout `gh-pages` branch
+4. Run `gem install bundler`
+5. Run `bundle install`
+6. Run `bundle exec jekyll serve`
+7. Open [`http://127.0.0.1:4000/liquid/`](http://127.0.0.1:4000/liquid/) in your browser
