@@ -29,5 +29,8 @@
         document.getElementById("{{ page.collection }}").scrollIntoView();
     </script>
     {%- endif -%}
+    
+    <div>{% include toc.html html=content %}</div>
+
   </nav>
 </div>
