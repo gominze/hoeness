@@ -13,3 +13,4 @@ description: Dokumentation des Hoeness Stimmungsbarometers
 
 Hoeness ist ein Projekt im Rahmen des Techstarter DevOps & Cloud Computing Kurses 2022/07.
 
+{% include toc.html html=content %}
