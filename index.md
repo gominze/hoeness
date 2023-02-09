@@ -1,15 +1,15 @@
 ---
 layout: default
 home: true
-description: Documentation for the Liquid template language, created by Shopify.
+description: Dokumentation des Hoeness Stimmungsbarometers
 ---
 
 {% include home-banner.html %}
 
-Liquid is an open-source template language created by [Shopify](https://www.shopify.com) and written in Ruby. It is the backbone of Shopify themes and is used to load dynamic content on storefronts.
+# hoeness
 
-Liquid has been in production use at Shopify since 2006 and is now used by many other hosted web applications.
+> Für Eure Scheiss Stimmung seid Ihr doch verantwortlich, nicht wir!
+> - Uli Hoenneß, JHV 2008
 
-## Used by
+Hoeness ist ein Projekt im Rahmen des Techstarter DevOps & Cloud Computing Kurses 2022/07.
 
-{% include home-users-grid.html %}
