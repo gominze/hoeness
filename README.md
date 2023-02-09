@@ -33,4 +33,6 @@ Status: 03.02.2023
 
 > 09.02.2023
 
+- ProductOwner Daily
+- internes Daily
 -
