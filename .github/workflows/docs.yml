@@ -1,9 +1,10 @@
 name: Build Docs
 
 on:
-  push: {}
-  pull_request:
-    types: [opened, synchronize]
+  workflow_dispatch
+  #push: {}
+  #pull_request:
+  #  types: [opened, synchronize]
 
 jobs:
   build:
