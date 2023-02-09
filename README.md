@@ -42,4 +42,4 @@ Status: 03.02.2023
 - internes Daily (ss)
 - Präsentation und Diskussion der aufgesetzten Doku auf Github Pages
 - Implementierung eines Docker Compose Grundgerüst
-- Vorbereitung der Abgabe
+- Vorbereitung der Abgabe (bp)
