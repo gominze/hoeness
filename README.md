@@ -43,3 +43,5 @@ Status: 03.02.2023
 - Präsentation und Diskussion der aufgesetzten Doku auf Github Pages
 - Implementierung eines Docker Compose Grundgerüst
 - Vorbereitung der Abgabe (bp)
+- Pflege der Dokumente
+- Verbesserung der Besrpchenen Punkte am Code(jc)
