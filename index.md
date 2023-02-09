@@ -40,6 +40,8 @@ Hoeness ist ein Projekt im Rahmen des Techstarter DevOps & Cloud Computing Kurse
 
 #### Frontend
 
+#### REST API
+
 #### Backend
 
 #### Database
