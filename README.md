@@ -35,4 +35,6 @@ Status: 03.02.2023
 
 - ProductOwner Daily
 - internes Daily (ss)
--
+- Präsentation und Diskussion der aufgesetzten Doku auf Github Pages
+- Implementierung eines Docker Compose Grundgerüst
+- Vorbereitung der Abgabe
