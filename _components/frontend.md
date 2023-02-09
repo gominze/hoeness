@@ -1,7 +1,7 @@
 ---
-title: Control flow
-description: An overview of control flow and conditional tags in the Liquid template language.
-redirect_from: /tags/
+title: Frontend
+description: Angular
+redirect_from: /components/
 ---
 
 Control flow tags create conditions that decide whether blocks of Liquid code get executed.

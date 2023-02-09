@@ -69,7 +69,7 @@ body {
 
 .sidebar__logo {
   border-bottom: 1px solid $color-blue-4;
-  color: $color-white;
+  color: $color-slate;
   font-size: $base-font-size * 2;
   font-weight: 300;
   height: $logo-height;
@@ -84,7 +84,7 @@ body {
   // }
 
   a {
-    color: $color-white;
+    color: $color-slate;
     text-decoration: none;
 
     &:hover {
@@ -109,7 +109,7 @@ body {
 .section__header {
   font-size: 1em;
   text-decoration: none;
-  color: $color-white;
+  color: $color-slate;
   margin-top: 0;
   margin-bottom: $spacing-unit / 4;
 
@@ -135,7 +135,7 @@ body {
   margin-top: $spacing-unit/4;
   opacity: 0.75;
   text-decoration: none;
-  color: $color-white;
+  color: $color-slate;
 
   &:hover {
     opacity: 1;
@@ -149,12 +149,12 @@ body {
   }
 
   &:visited {
-    color: $color-white;
+    color: $color-slate;
   }
 }
 
 .section__link--is-active {
   font-weight: bold;
   opacity: 1;
-  color: $color-white;
+  color: $color-slate;
 }

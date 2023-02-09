@@ -1,6 +1,6 @@
 ---
-title: Variable
-description: An overview of tags for creating variables in the Liquid template language.
+title: Database
+description: PostgreSQL
 ---
 
 Variable tags create new Liquid variables.

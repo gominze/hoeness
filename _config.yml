@@ -22,9 +22,9 @@ keep_files:             ["css"]
 collections:
   basics:
     output: true
-  tags:
+  components:
     output: true
-  filters:
+  deployment:
     output: true
 
 # Plugins
