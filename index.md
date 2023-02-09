@@ -15,6 +15,8 @@ Hoeness ist ein Projekt im Rahmen des Techstarter DevOps & Cloud Computing Kurse
 
 {% include toc.html html=content %}
 
+{{content}}
+
 # Punkt 1
 
 test
@@ -40,3 +42,4 @@ test
 test
 
 
+{% include toc.html html=content sanitize=true class="inline_toc" id="my_toc" h_min=2 h_max=3 %}
