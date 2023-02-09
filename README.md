@@ -9,6 +9,28 @@
 
 Dokumentation auf Github Pages [LINK](https://gominze.github.io/hoeness/)
 
+# Wie starte ich die Container?
+Die Grundstruktur ist kopiert von einer [Repo](https://gitlab.com/codeching/docker-multicontainer-application-angular-nodejs-postgres-nginx-basic/-/tree/main) von László Leber (Codeching).
+
+
+Erst einmal Docker, bzw. Docker Deskop starten. Dann im Ordner mit `docker-compose.yml`, folgenden Befehl im Terminal ausführen:
+
+```
+docker compose up --build
+```
+
+Der letzte Output sollte sein:
+```
+✔ Compiled successfully.
+```
+
+
+Dann laufen alle Services, yay! Check die basic App auf:
+```
+http://localhost:3050
+```
+
+
 # Projekt Logbuch: Stimmungsindex
 
 Status: 03.02.2023
