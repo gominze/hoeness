@@ -20,8 +20,6 @@ Hoeness ist ein Projekt im Rahmen des Techstarter DevOps & Cloud Computing Kurse
 
 ### Was ist Hoeness?
 
-test
-
 ### Warum gibt es Hoeness?
 
 ### Zielsetzung
