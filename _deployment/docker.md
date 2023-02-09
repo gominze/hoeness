@@ -1,7 +1,7 @@
 ---
 title: abs
 description: Liquid filter that returns the absolute value of a number.
-redirect_from: /filters/
+redirect_from: /deployment/
 ---
 
 Returns the absolute value of a number.

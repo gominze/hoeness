@@ -1,9 +1,9 @@
 ---
-title: Template
-description: An overview of template tags in the Liquid template language.
+title: REST API
+description: An overview of the implemented REST API
 redirect_from:
-  - /tags/comment/
-  - /tags/raw/
+  - /components/comment/
+  - /components/raw/
 ---
 
 Template tags tell Liquid where to disable processing for comments or non-Liquid markup, and how to establish relations among template files.

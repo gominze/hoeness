@@ -16,7 +16,7 @@ module.exports = function (grunt) {
         }
       },
       jekyll: {
-        files: ['index.md', '_includes/*.html', 'filters/*.*', '_layouts/*.*', 'tags/*.*', 'basics/*.*'],
+        files: ['index.md', '_includes/*.html', 'components/*.*', '_layouts/*.*', 'deployment/*.*', 'basics/*.*'],
         tasks: ['shell:jekyllBuild']
       }
     },
