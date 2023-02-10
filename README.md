@@ -67,3 +67,14 @@ Status: 03.02.2023
 - Vorbereitung der Abgabe (bp)
 - Pflege der Dokumente
 - Verbesserung der Besrpchenen Punkte am Code(jc)
+
+>10.02.23
+
+- Class Daily 9am
+- Projekt Daily 10am
+- Ziele bis Sonntag pro Projektmitglied gesetzt
+- Kanbanboard pflege
+- Frontend<>Api<>Backend zusammenarbeit und struktur besprochen (ds)
+
+
+
