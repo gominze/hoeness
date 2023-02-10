@@ -67,6 +67,9 @@ Status: 03.02.2023
 - Vorbereitung der Abgabe (bp)
 - Pflege der Dokumente
 - Verbesserung der Besrpchenen Punkte am Code(jc)
+- Miroboard aktualisiert
+- Meilenstein1 abgabefertig abgeliefert
+- Frontendbereiche im Angular näher kennengelernt und mehr verständnis angeeignet (ds)
 
 >10.02.23
 
