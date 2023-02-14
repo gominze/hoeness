@@ -84,4 +84,12 @@ Status: 03.02.2023
 - Class Daily 9am
 - Projekt Daily 9.45am
 
+>14.02.23
+
+- Class Daily 9am
+- Projekt Daily 9.40am
+- Präsentation anlegen und administrieren (jc)
+
+
+
 
