@@ -100,6 +100,7 @@ Status: 03.02.2023
 - Projekt Daily 9:20am
 - restrukturierung des Projekts
 - features rausschmiss (ds)
+- Präsentation fertigen (jc)
 
 
 
