@@ -66,7 +66,7 @@ Status: 03.02.2023
 - Implementierung eines Docker Compose Grundgerüst
 - Vorbereitung der Abgabe (bp)
 - Pflege der Dokumente
-- Verbesserung der Besrpchenen Punkte am Code(jc)
+- Verbesserung der besprpochenen Punkte am Code (jc)
 - Miroboard aktualisiert
 - Meilenstein1 abgabefertig abgeliefert
 - Frontendbereiche im Angular näher kennengelernt und mehr verständnis angeeignet (ds)
@@ -77,7 +77,7 @@ Status: 03.02.2023
 - Projekt Daily 10am
 - Ziele bis Sonntag pro Projektmitglied gesetzt
 - Kanbanboard pflege
-- Frontend<>Api<>Backend zusammenarbeit und struktur besprochen (ds)
+- Frontend<>Api<>Backend Zusammenarbeit und Struktur besprochen (ds)
 
 >13.02.23
 
@@ -91,16 +91,16 @@ Status: 03.02.2023
 - Präsentation anlegen und administrieren (jc)
 - Miro pflege und ausmisten
 - sass/scss workspace cration
-- daily workflow empfehlungen definiert
-- frontend angefangen (ds)
+- Daily Workflow Empfehlungen definiert
+- Frontend angefangen (ds)
 
 >15.02.23
 
 - Class Daily 9am
 - Projekt Daily 9:20am
-- restrukturierung des Projekts
-- features rausschmiss (ds)
-- Präsentation fertigen (jc)
+- Restrukturierung des Projekts
+- Features rausschmiss (ds)
+- Präsentation (jc)
 
 
 
