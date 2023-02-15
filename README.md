@@ -95,6 +95,12 @@ Status: 03.02.2023
 - daily workflow empfehlungen definiert
 - frontend angefangen (ds)
 
+>15.02.23
+
+- Class Daily 9am
+- Projekt Daily 9:23 am
+- 
+
 
 
 
