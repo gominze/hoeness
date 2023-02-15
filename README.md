@@ -97,7 +97,9 @@ Status: 03.02.2023
 >15.02.23
 
 - Class Daily 9am
-- Projekt Daily 9:23 am
+- Projekt Daily 9:20am
+- restrukturierung des Projekts
+- features rausschmiss (ds)
 
 
 
