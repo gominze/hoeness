@@ -79,6 +79,14 @@ Status: 03.02.2023
 - Kanbanboard pflege
 - Frontend<>Api<>Backend Zusammenarbeit und Struktur besprochen (ds)
 
+>11.02.23
+
+- Wochenende
+
+>12.02.23
+
+- Wochenende
+
 >13.02.23
 
 - Class Daily 9am
