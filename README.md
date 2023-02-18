@@ -102,5 +102,20 @@ Status: 03.02.2023
 - Features rausschmiss (ds)
 - Präsentation (jc)
 
+>Bitte jemand aus Meilenstein II das Projektlogbuch hier einpflegen. (ds)
 
+>18.02.23
 
+- Wochenende
+
+>19.02.23
+
+- Wochenende
+
+>20.02.23
+
+- Class Daily 9am
+- Projekt Daily
+- Sich in Firebase einfuchsen
+- In Firebase projekt und Database erstellen
+- Database verbinden (ds)
