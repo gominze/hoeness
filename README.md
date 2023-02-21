@@ -127,3 +127,11 @@ Status: 03.02.2023
 - Sich in Firebase einfuchsen
 - In Firebase projekt und Database erstellen
 - Database verbinden (ds)
+
+>21.02.23
+
+- Class Daily 9am
+- Projekt Daily
+- Github PRobleme beheben
+- Umfrage Zwischenergebnisse in Firebase implementieren (jc)
+
